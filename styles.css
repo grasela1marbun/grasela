@@ -1,0 +1,59 @@
+
+body#body-about {
+    background-color: #302e2e;
+    font-family:  Arial, sans-serif;
+    color: #faf7f7;
+}
+
+body#body-contact {
+    background-color: #302e2e;
+    font-family: arial, sans-serif;
+    color: #faf7f7;
+}
+nav#id-index {
+    text-decoration: black;
+    color: #0a0909;
+    margin-right: 10px;
+    background-color: #302e2e;
+}
+
+nav a:hover {
+    color: rgb(241, 238, 230);
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #faf7f7;
+}
+
+p#p-kata {
+    font-family: serif;
+    line-height: 1.75em;
+    font-size: medium;
+}
+
+i {
+    font-family: sans;
+    color: orange;
+}
+h2 {
+    font-family: sans;
+    color: #333;
+}
+
+h3 {
+    color: #faf7f7;
+    font-size: 35px;
+
+}
+
+label{
+    color: #faf7f7;
+    font-size: 17px;
+}
+
+body#body-index{
+    color: #faf7f7;
+    font-family: Arial, sans-serif;
+    background-color: #302e2e;
+}
